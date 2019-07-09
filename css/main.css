@@ -1,0 +1,44 @@
+body{
+	font-family: 'Cairo';
+}
+/* Start Upper Bar*/ 
+.upper-bar{
+	background-color: #ac2085;
+	text-align: right;
+	padding: 5px;
+}
+.upper-bar i{
+	margin: 3px;
+	color: #ffffff;
+}
+
+.nav-bar{
+	
+	float: right;
+}
+.color-1{
+	color: #72c6ec;
+}
+.color-2{
+	background-color: #f7911e;
+	color: #fff;
+	border-radius: 0;
+}
+.section-2{
+	background-color: #f3f8fc;
+
+}
+.m{
+	margin-top: 50px; 
+}
+
+.card-image{
+	background-color: #f7911e;
+	border-radius: 100%;
+	padding: 10px;
+}
+/*.nav-bar ul{
+	list-style-type: none;
+
+}*/
+/* End Upper Bar*/ 
