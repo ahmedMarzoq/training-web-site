@@ -37,6 +37,23 @@ body{
 	border-radius: 100%;
 	padding: 10px;
 }
+.img {
+	width: 100%;
+	height: 500px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+ }
+ .check{
+	background-color: #f7911e;
+	border-radius: 100%;
+	padding: 3px;
+	color: #fff;
+ }
+ .sec{
+	 background-color: #f7911e;
+	 color: #fff;
+ }
 /*.nav-bar ul{
 	list-style-type: none;
 
