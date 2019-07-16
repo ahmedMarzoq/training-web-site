@@ -80,6 +80,12 @@ body{
  .down-bar i{
 	margin: 3px;
 }
+.nav-item{
+	color: black;
+}
+.hh :hover{
+	background-color: #ac2085;
+}
 /*.nav-bar ul{
 	list-style-type: none;
 
