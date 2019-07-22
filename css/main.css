@@ -86,6 +86,9 @@ body{
 .hh :hover{
 	background-color: #ac2085;
 }
+.icons{
+	margin: rem;
+}
 /*.nav-bar ul{
 	list-style-type: none;
 
